@@ -1,3 +1,3 @@
 Juego 2d hecho en java
 
-    *se necesita java 8 para que funcione
+    * Se necesita java 8 para que funcione correctamente
